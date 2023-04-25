@@ -1,2 +1,0 @@
-# SistemaLoginCadastro
-Static ArrayList
