@@ -1,2 +1,7 @@
 # SistemaLoginCadastro
-### Static ArrayList, sistema de cadastro
+
+
+## Mudanças necessárias (...):
+- 
+- 
+
